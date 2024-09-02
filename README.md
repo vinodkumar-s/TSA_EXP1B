@@ -81,15 +81,20 @@ ORIGINAL DATA:
 
 REGULAR DIFFERENCING:
 
-![Screenshot 2024-08-23 221118](https://github.com/user-attachments/assets/2c70c750-70e4-43fb-a25e-83427cadcdf1)
+![Screenshot 2024-08-23 221132](https://github.com/user-attachments/assets/e54e6f21-a57a-4ce0-8963-77bb38de50d4)
+
+
 
 
 SEASONAL ADJUSTMENT:
 
-![Screenshot 2024-08-23 221132](https://github.com/user-attachments/assets/e54e6f21-a57a-4ce0-8963-77bb38de50d4)
+![Screenshot 2024-08-23 221146](https://github.com/user-attachments/assets/152bde13-91a0-41fb-b111-d96b242aeba3)
+
+
 
 LOG TRANSFORMATION:
-![Screenshot 2024-08-23 221146](https://github.com/user-attachments/assets/152bde13-91a0-41fb-b111-d96b242aeba3)
+
+![Screenshot 2024-08-23 221118](https://github.com/user-attachments/assets/2c70c750-70e4-43fb-a25e-83427cadcdf1)
 
 
 
